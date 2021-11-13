@@ -353,14 +353,5 @@ int main()
 //    }
     vector<char> ivec;
     cout << "Enter words:" << endl;
-    char element;
-    while (cin >> element) {
-        ivec.push_back(element);
-    }
-    vector<char>::iterator iter
-    for (iter = ivec.begin(); iter != ivec.end(); ++iter) {
-        *iter
-    }
-    return 0;
     
 }
